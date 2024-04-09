@@ -11,7 +11,7 @@ const Footer = () => {
             <div>
                 <h4><i className="far fa-address-card"></i> About Me</h4>
                 <p>Pratibha Tiwari</p>
-                <a href="https://sourcecodebd.github.io/nafi.com"><p>Website: pratibhat.com</p></a>
+          
             </div>
             <div>
                 <h4><i className="far fa-building"></i> Organization</h4>
