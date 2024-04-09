@@ -1,0 +1,25 @@
+.shipping-title{
+    color: #ffb610;
+}
+.lines{
+    background-color: #ffb610;
+    height: 3px;
+    width: 80px;
+    margin: auto;
+    border-radius: 20px;
+}
+.bg-blur{
+    background: rgba(255,255,255,0.5);
+    backdrop-filter: blur(5px);
+}
+.border-custom{
+    border-bottom: 5px solid #ccc;
+}
+.overflow-custom{
+    overflow: hidden;
+    overflow-y: scroll;
+    height: 200px
+}
+.overflow-custom::-webkit-scrollbar{
+    display: none;
+}
